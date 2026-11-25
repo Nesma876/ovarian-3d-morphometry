@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite the authors when using this software."
+title: "From Semantic Masks to Object Measurements: Connectivity-Dependent Morphometric Variability in 3D Ovarian Ultrasound"
+type: software
+authors:
+  - family-names: Settouti
+    given-names: Nesma
+  - family-names: Bechar
+    given-names: Mohammed El Amine
+repository-code: "https://github.com/Nesma876/ovarian-3d-morphometry"
